@@ -7,6 +7,7 @@
 ``` bash
 # install dependencies
 npm install
+cd server npm i
 
 # run client with hot reload
 npm run dev
