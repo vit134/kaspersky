@@ -5,9 +5,9 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies from / and /server folders
 npm install
-cd server npm i
+cd server npm install
 
 # run client with hot reload
 npm run dev
